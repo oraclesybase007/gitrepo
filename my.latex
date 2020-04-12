@@ -1,0 +1,6 @@
+\documentclass{article}
+\usepackage{ctex}
+\begin{documnet}
+This is Newton second law!
+$$F=ma$$
+\end{document}
